@@ -1,4 +1,4 @@
-# node_clusterning
+# node_clustering
 
 - Node app performance can be increased by using clustering
 - Clustering can be done using node's clustering module or using PM2(process manager)
